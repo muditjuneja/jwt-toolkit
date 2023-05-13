@@ -5,7 +5,7 @@ const nextConfig = {
   compiler: {
     styledComponents: true,
   },
-  basePath: '/jwt-encoder-decoder',
+  basePath: '',
   images: {
     unoptimized: true
   }

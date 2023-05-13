@@ -59,12 +59,6 @@ const ExplanationContent = () => {
           </figure>
         </div>
       </section>
-
-      <p>
-      You can find our complete guide on how JWT works and how you can generate JWTs in this <a rel="nofollow" href="/blog/what-is-jwt" target={"_blank"}>blog.</a>
-      </p>
-
-
     </ExplanationContainerStyled>
   )
 }
